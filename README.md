@@ -320,7 +320,7 @@ To access the actor you can use:
 ```py
 actor = self.uobject.get_owner()
 ```
-
+\\
 The following example implements the third person official blueprint as a python component:
 
 ```py
